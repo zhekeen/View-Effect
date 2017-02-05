@@ -1,4 +1,4 @@
-package keen.lib;
+package keen.view;
 
 /**
  * Created by apple on 05/02/17.

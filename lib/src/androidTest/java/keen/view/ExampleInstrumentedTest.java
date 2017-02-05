@@ -1,4 +1,4 @@
-package keen.lib;
+package keen.view;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

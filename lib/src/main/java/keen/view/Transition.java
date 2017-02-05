@@ -1,4 +1,4 @@
-package keen.lib;
+package keen.view;
 
 import android.graphics.RectF;
 import android.view.animation.Interpolator;

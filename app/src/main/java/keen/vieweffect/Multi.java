@@ -5,8 +5,8 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ViewSwitcher;
 
-import keen.lib.Transition;
-import keen.lib.ViewEffect;
+import keen.view.Transition;
+import keen.view.ViewEffect;
 
 /**
  * Created by apple on 05/02/17.

@@ -3,7 +3,7 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <keen.lib.ViewEffect
+    <keen.view.ViewEffect
         android:id="@+id/imgsingle"
         android:src="@drawable/img1"
         android:layout_width="match_parent"

@@ -1,4 +1,4 @@
-package keen.lib;
+package keen.view;
 
 import org.junit.Test;
 
